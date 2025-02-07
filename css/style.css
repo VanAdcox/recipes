@@ -1,0 +1,19 @@
+h1 {
+	color: pink;
+}
+
+h1.recipeTitle {
+	font-family: "Papyrus", fantasy;
+	font-size: 22px;
+	font-weight: 700;
+	text-align: center;
+}
+
+ol li {
+	background-color: green;
+	color: white;
+}
+
+.mainTitle {
+	color: red;
+}
